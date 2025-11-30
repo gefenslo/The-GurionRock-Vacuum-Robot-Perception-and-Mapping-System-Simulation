@@ -1,0 +1,72 @@
+{
+  "camera1": [
+    {
+      "time": 1,
+      "detectedObjects": [
+        { "id": "Box_1", "description": "Blue Box" }
+      ]
+    },
+    {
+      "time": 4,
+      "detectedObjects": [
+        { "id": "Wall_1", "description": "Wall" },
+        { "id": "Box_2", "description": "Green Box" }
+      ]
+    },
+    {
+      "time": 6,
+      "detectedObjects": [
+        { "id": "Chair_1", "description": "Chair" }
+      ]
+    },
+    {
+      "time": 9,
+      "detectedObjects": [
+        { "id": "Box_1", "description": "Blue Box" }
+      ]
+    }
+  ],
+
+  "camera2": [
+    {
+      "time": 2,
+      "detectedObjects": [
+        { "id": "Box_2", "description": "Green Box" }
+      ]
+    },
+    {
+      "time": 4,
+      "detectedObjects": [
+        { "id": "Wall_2", "description": "Wall" }
+      ]
+    },
+    {
+      "time": 10,
+      "detectedObjects": [
+        { "id": "Lamp_1", "description": "Lamp" }
+      ]
+    }
+  ],
+
+  "camera3": [
+    {
+      "time": 1,
+      "detectedObjects": [
+        { "id": "Obstacle_1", "description": "Obstacle" }
+      ]
+    },
+    {
+      "time": 5,
+      "detectedObjects": [
+        { "id": "Box_2", "description": "Green Box" }
+      ]
+    },
+    {
+      "time": 7,
+      "detectedObjects": [
+        { "id": "Chair_1", "description": "Chair" },
+        { "id": "Wall_3", "description": "Wall" }
+      ]
+    }
+  ]
+}

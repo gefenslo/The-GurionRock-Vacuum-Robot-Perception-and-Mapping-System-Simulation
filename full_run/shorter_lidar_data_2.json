@@ -1,0 +1,22 @@
+[
+  { "time": 1,  "id": "Box_1",        "cloudPoints": [[0.1, 0.1], [0.2, 0.2]] },
+  { "time": 1,  "id": "Obstacle_1",   "cloudPoints": [[-0.5, 0.3]] },
+  
+  { "time": 2,  "id": "Box_2",        "cloudPoints": [[-1.0, -1.5]] },
+  
+  { "time": 4,  "id": "Wall_1",       "cloudPoints": [[2.0, 1.0], [2.2, 1.1]] },
+  { "time": 4,  "id": "Wall_2",       "cloudPoints": [[2.5, 1.5]] },
+  { "time": 4,  "id": "Box_2",        "cloudPoints": [[-1.2, -1.6]] },
+  
+  { "time": 5,  "id": "Box_2",        "cloudPoints": [[-1.1, -1.4]] },
+  
+  { "time": 6,  "id": "Chair_1",      "cloudPoints": [[0.9, 0.6]] },
+  
+  { "time": 7,  "id": "Wall_3",       "cloudPoints": [[3.0, 2.0], [3.1, 2.1]] },
+  { "time": 7,  "id": "Chair_1",      "cloudPoints": [[1.0, 0.5]] },
+  
+  { "time": 9,  "id": "Box_1",        "cloudPoints": [[0.25, 0.3]] },
+  
+  { "time": 10, "id": "Lamp_1",       "cloudPoints": [[1.5, 1.5]] }
+]
+

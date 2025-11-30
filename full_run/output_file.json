@@ -1,0 +1,88 @@
+{
+  "statisticalFolder": {
+    "systemRuntime": 14,
+    "numDetectedObjects": 12,
+    "numTrackedObjects": 12,
+    "numLandmarks": 7
+  },
+  "landmarks": [
+    {
+      "id": "Box_2",
+      "description": "Green Box",
+      "coordinates": [
+        {
+          "x": 1.2863330290500061,
+          "y": 0.3150880425743628
+        }
+      ]
+    },
+    {
+      "id": "Wall_1",
+      "description": "Wall",
+      "coordinates": [
+        {
+          "x": 3.6730326074756157,
+          "y": 3.4835639164941097
+        },
+        {
+          "x": 3.840335868223178,
+          "y": 3.631920308143521
+        }
+      ]
+    },
+    {
+      "id": "Wall_2",
+      "description": "Wall",
+      "coordinates": [
+        {
+          "x": 4.02658599806889,
+          "y": 4.095936352189904
+        }
+      ]
+    },
+    {
+      "id": "Chair_1",
+      "description": "Chair",
+      "coordinates": [
+        {
+          "x": 5.089065727536502,
+          "y": 5.428576904840419
+        }
+      ]
+    },
+    {
+      "id": "Wall_3",
+      "description": "Wall",
+      "coordinates": [
+        {
+          "x": 6.598076211353316,
+          "y": 8.232050807568877
+        },
+        {
+          "x": 6.6346787517317605,
+          "y": 8.36865334794732
+        }
+      ]
+    },
+    {
+      "id": "Box_1",
+      "description": "Blue Box",
+      "coordinates": [
+        {
+          "x": 6.998674827873783,
+          "y": 7.390510235357328
+        }
+      ]
+    },
+    {
+      "id": "Lamp_1",
+      "description": "Lamp",
+      "coordinates": [
+        {
+          "x": 8.0,
+          "y": 10.121320343559642
+        }
+      ]
+    }
+  ]
+}
