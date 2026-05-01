@@ -33,6 +33,19 @@ mvn clean compile
 ```
 mvn exec:java -Dexec.mainClass=bgu.spl.mics.application.GurionRockRunner -Dexec.args="/path/to/configuration_file.json"
 ```
+Currently available input path:
+Error in camera:
+```
+error_in_camera_input/config.json
+```
+Eroor in LiDar:
+```
+error_in_lidar_input/config.json
+```
+Full run:
+```
+full_run/configuration_file.json
+```
 
 ### Test
 ```
