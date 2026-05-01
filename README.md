@@ -38,7 +38,7 @@ Error in camera:
 ```
 error_in_camera_input/config.json
 ```
-Eroor in LiDar:
+Error in LiDar:
 ```
 error_in_lidar_input/config.json
 ```
