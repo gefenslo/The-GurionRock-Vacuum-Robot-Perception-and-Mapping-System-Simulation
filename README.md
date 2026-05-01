@@ -24,14 +24,14 @@ This project simulates the perception and mapping system of a vacuum robot, desi
 
 ### Build
 ```
-mvn clean install
+mvn clean compile
 ```
 
 ### Run
 1. Place your configuration and sensor data files in the appropriate input folders.
-2. Run the main application (update the main class path as needed):
+2. Run the  application (update the path as needed):
    ```
-   mvn exec:java -Dexec.mainClass="bgu.spl.mics.application.Main"
+mvn exec:java -Dexec.mainClass=bgu.spl.mics.application.GurionRockRunner -Dexec.args="/path/to/configuration_file.json"
    ```
 
 ### Test
